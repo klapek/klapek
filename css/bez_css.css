@@ -1,0 +1,16 @@
+body {
+	color:#000000;
+	background: #FFFFFF;
+}
+table {
+	color:#000000;
+}
+a {
+	color:#0000FF;
+	font-size:normal;
+	text-decoration:underline;
+	}
+a:link {color:#0000FF;}
+a:visited {color:#0000CD;}
+
+

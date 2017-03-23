@@ -1,0 +1,26 @@
+body {
+	color:#A9A9A9;
+	background: transparent;
+	}
+table {
+	color:#A9A9A9;
+	}
+a {
+	color:#A9A9A9;
+	background-color: transparent;
+	font-weight: normal;
+	text-decoration:none;
+	}
+span a {
+	border-bottom: 1px dotted #A9A9A9;
+}
+span a:hover {border-bottom: 1px dotted #D3D3D3;
+}
+a:link {color:#A9A9A9;
+	background-color: transparent;}
+a:visited {color:#A9A9A9;
+	background-color: transparent;}
+a:hover {color: #D3D3D3;
+	background-color: transparent;
+	}
+
